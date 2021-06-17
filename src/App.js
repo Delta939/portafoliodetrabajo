@@ -192,12 +192,12 @@ function Contacto() {
     <div className="App">
       <header className="App-header">
         <h2>Contacto</h2>
-        <h6>
+        <a>
           Ingeniero de Software y Desarrollador web Francisco Manuel Garcia
           Martinez
-        </h6>
-        <h6>email: mmtz3301@gmail.com</h6>
-        <h6>Cel: 55 60 41 10 00</h6>
+        </a>
+        <a>email: mmtz3301@gmail.com</a>
+        <a>Cel: 55 60 41 10 00</a>
       <a
           className="App-link"
           href="https://portafoliodetrabajodelta939.netlify.app/#/"
