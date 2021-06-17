@@ -198,13 +198,21 @@ function Contacto() {
         </h2>
         <h2>email: mmtz3301@gmail.com</h2>
         <h2>Cel: 55 60 41 10 00</h2>
-        <a
+      <a
           className="App-link"
-          href="https://my.smartrecruiters.com/public/profiles/francisco.garcia381"
+          href="https://portafoliodetrabajodelta939.netlify.app/#/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mi Perfil
+          mi portafolio en netlify con react
+        </a>  
+      <a
+          className="App-link"
+          href="http://portafoliodetrabajodelta.atwebpages.com/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          mi portafolio en página web
         </a>
         <a
           className="App-link"
@@ -212,7 +220,7 @@ function Contacto() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          WordPress
+          mi portafolio en WordPress
         </a>
         <a
           className="App-link"
