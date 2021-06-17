@@ -254,8 +254,8 @@ function AppRouter() {
           </ul>
         </nav>
         <Route path="/" exact component={Portafolio} />
-        <Route path="/about/" component={Certificaciones} />
-        <Route path="/users/" component={Contacto} />
+        <Route path="/certificaciones/" component={Certificaciones} />
+        <Route path="/contacto/" component={Contacto} />
       </Router>
     </header>
   );
