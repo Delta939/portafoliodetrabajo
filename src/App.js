@@ -246,10 +246,10 @@ function AppRouter() {
               <Link to="/">portafolio</Link>
             </li>
             <li>
-              <Link to="/about/">certificaciones</Link>
+              <Link to="/certificaciones/">certificaciones</Link>
             </li>
             <li>
-              <Link to="/users/">contacto</Link>
+              <Link to="/contacto/">contacto</Link>
             </li>
           </ul>
         </nav>
