@@ -26,11 +26,11 @@ function Portafolio() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alignContent="right" alt="logo" />
-        <h2>
+        <p>
           Portafolio del Ingeniero de Software y Desarrollador web Francisco
           Manuel Garcia Martinez
-        </h2>
-        <h3>Páginas web que he desarrollado</h3>
+        </p>
+        <p>Páginas web que he desarrollado</p>
         <a
           className="App-link"
           href="http://uacmproyectoluchadoresambientales.atwebpages.com/Menuprincipal.php?txt_usuario=profesor&txt_password=295"
